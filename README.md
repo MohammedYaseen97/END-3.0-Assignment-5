@@ -70,7 +70,7 @@ YelpReviewPolarity(root='.data', split=('train', 'test'))
 ```
 <br /> <br />
 
-Training on each of the 2 datasets, the model givse decent accuracy of classification on test set (85% on IMDb dataset, 95% on YelpReview). <br /> <br />
+Training on each of the 2 datasets, the model gives decent accuracy of classification on test sets (85% on IMDb dataset, 95% on YelpReview). <br /> <br />
 
 Group 21 members : <br />
 
